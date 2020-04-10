@@ -71877,6 +71877,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isAllowedToMove: 1
   moveSpeed: 10
+  cam: {fileID: 519420031}
   rb: {fileID: 1502783457}
   animator: {fileID: 1502783456}
 --- !u!212 &1502783459
